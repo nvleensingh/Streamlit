@@ -21,4 +21,4 @@ def largest_calculator(a,b,c):
 if(st.button("Check")):
     st.write(largest_calculator(num1,num2,num3))
 else:
-    st.write("Press The Button!!")
+    st.write("Press The 'Check' Button!!")
