@@ -6,8 +6,8 @@ st.text("Enter the Three numbers and find the Largest amongest them")
 st.write(" ")
 
 num1 = st.number_input("Enter the Number 1: ", value = 0)
-num2 = st.number_input("Enter the Number Number 2: ", value = 0)
-num3 = st.number_input("Enter the Number Number 3: ", value = 0)
+num2 = st.number_input("Enter the Number 2: ", value = 0)
+num3 = st.number_input("Enter the Number 3: ", value = 0)
 
 
 def largest_calculator(a,b,c):
